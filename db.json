@@ -1,0 +1,250 @@
+{
+  "auth": {
+    "id": 1001,
+    "login": "maksym4ik",
+    "email": "mxfalat@gmail.com",
+    "isAuth": true
+  },
+  "myprofile": [
+    {
+      "id": 1001,
+      "followed": true,
+      "firstName": "Максим",
+      "career": "Безробітній>",
+      "location": "Львів",
+      "age": 21,
+      "about": "вирішую бізнес задачі",
+      "photoUrl": "Шел чудак Раскаленному солнцу подставив нагретый чердак"
+    }
+  ],
+  "events1": [
+    {
+      "id": 10001,
+      "eventName": "Сімейний фест",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10002,
+      "eventName": "бандер",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10003,
+      "eventName": "захід",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10004,
+      "eventName": "креативні",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10005,
+      "eventName": "пасивні",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    }
+  ],
+  "events2": [
+    {
+      "id": 10006,
+      "eventName": "Сімейний фест",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10007,
+      "eventName": "Сімейний фест",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10008,
+      "eventName": "Сімейний фест",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10009,
+      "eventName": "Сімейний фест",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    },
+    {
+      "id": 10010,
+      "eventName": "Сімейний фест",
+      "nameLocation": "Арена Львів",
+      "location": "Львів",
+      "data": "21.09.2020",
+      "about": "сімейний фест"
+    }
+  ],
+  "volunteers1": [
+    {
+      "id": 1001,
+      "followed": false,
+      "firstName": "Maksym",
+      "career": "безробітній",
+      "location": "Львів",
+      "age": 22,
+      "about": "'Шел чудак Раскаленному солнцу подставив нагретый чердак Шел чудак, за спиной его тихо качался рюкзак Шел домой Представляя, как все удивятся тому, что живой Что ничто не случилось такого с его головой.'",
+      "photoUrl": "https://instagram.flwo1-1.fna.fbcdn.net/v/t51.2885-15/e35/s1080x1080/72183849_144261533585838_2632676162811229883_n.jpg?_nc_ht=instagram.flwo1-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=SdC8tvERSDQAX82q578&oh=7b34435aebafdb06c231a5ca8ab48163&oe=5E9F4CA0"
+    },
+    {
+      "id": 1002,
+      "followed": false,
+      "firstName": "Павлик",
+      "career": "школьник",
+      "location": "Київ",
+      "age": 14,
+      "about": "Допомагаю по дому",
+      "photoUrl": ""
+    },
+    {
+      "id": 1003,
+      "followed": true,
+      "firstName": "Жанночка",
+      "career": "студентка",
+      "location": "Одеса",
+      "age": 21,
+      "about": "Допомагаю по дому",
+      "photoUrl": "https://uploads.scratch.mit.edu/users/avatars/34083956.png"
+    },
+    {
+      "id": 1004,
+      "followed": false,
+      "firstName": "Валерчік",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": ""
+    },
+    {
+      "id": 1005,
+      "followed": false,
+      "firstName": "Валік",
+      "career": "рекрутер",
+      "location": "Харків",
+      "age": 22,
+      "about": "я реді",
+      "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
+    }
+  ],
+  "volunteers2": [
+    {
+      "id": 1006,
+      "followed": true,
+      "firstName": "Анатолій",
+      "career": "рукомийник",
+      "location": "Вроцлав",
+      "age": 27,
+      "about": "я бусі",
+      "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
+    },
+    {
+      "id": 1007,
+      "followed": false,
+      "firstName": "Наталі",
+      "career": "співаю",
+      "location": "Одеса",
+      "age": 57,
+      "about": "я АктрисА",
+      "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
+    },
+    {
+      "id": 1008,
+      "followed": false,
+      "firstName": "Валерчік",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
+    },
+    {
+      "id": 1009,
+      "followed": false,
+      "firstName": "Валерчік",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
+    },
+    {
+      "id": 1010,
+      "followed": false,
+      "firstName": "Валерчік",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
+    }
+  ],
+  "volunteers3": [
+    {
+      "id": 1011,
+      "followed": false,
+      "firstName": "Валерчік",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": ""
+    },
+    {
+      "id": 1012,
+      "followed": false,
+      "firstName": "Валерчік",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": "https://photo-travel.com/wp-content/uploads/2018/07/5DM32561_%D1%8C%D1%84%D1%8C%D1%84-1-500x500.jpg"
+    },
+    {
+      "id": 1013,
+      "followed": false,
+      "firstName": "Нема",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": ""
+    },
+    {
+      "id": 1014,
+      "followed": false,
+      "firstName": "Нема",
+      "career": "бляя",
+      "location": "Луцьк",
+      "age": 43,
+      "about": "Допомагаю по дому",
+      "photoUrl": ""
+    }
+  ]
+}
